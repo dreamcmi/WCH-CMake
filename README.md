@@ -10,10 +10,10 @@ This repository will be maintained using submodules, and the update may not be t
 
 ## 已收集仓库
 
-[CH573](https://github.com/dreamcmi/CH573-CMake)
-[CH582](https://github.com/dreamcmi/CH582-CMake)
-[CH32V203](https://github.com/dreamcmi/CH32V203-CMake)
-[CH32V307](https://github.com/dreamcmi/CH32V307-CMake)
+[CH573](https://github.com/dreamcmi/CH573-CMake)  
+[CH582](https://github.com/dreamcmi/CH582-CMake)  
+[CH32V203](https://github.com/dreamcmi/CH32V203-CMake)  
+[CH32V307](https://github.com/dreamcmi/CH32V307-CMake)   
 
 ## 提建议
 如果有需要增加的BSP可以直接提ISSUE
