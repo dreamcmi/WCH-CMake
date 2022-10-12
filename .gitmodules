@@ -1,6 +1,12 @@
+[submodule "CH32V003-CMake"]
+	path = CH32V003-CMake
+	url = https://github.com/dreamcmi/CH32V003-CMake
 [submodule "CH32V203-CMake"]
 	path = CH32V203-CMake
 	url = https://github.com/dreamcmi/CH32V203-CMake
+[submodule "CH32V208-CMake"]
+	path = CH32V208-CMake
+	url = https://github.com/dreamcmi/CH32V208-CMake
 [submodule "CH32V307-CMake"]
 	path = CH32V307-CMake
 	url = https://github.com/dreamcmi/CH32V307-CMake
